@@ -1,8 +1,8 @@
 # zuri-flight-booking-project-with-nodejs
 
-## Task Booking Flight API
+### Task Booking Flight API
 
-## Task Objective: Create a rest API that has the following features
+### Task Objective: Create a rest API that has the following features
 
 1. Add/Book Flight
 2. Get all Flight
@@ -11,24 +11,15 @@
 5. Delete Flight
 
 > for flight let it have the following properties
+> 
 > `{ title: "flight to canada", time: 1pm, price: 26000, date: "26-06-2022" }`
 
-## Run locally
+### Run locally
 
-### 1. `npm install`
+#### 1. `npm install`
 
-### 2. `npm run start`
+#### 2. `npm run start`
 
-### 3. Open http://localhost:3000 using Postman
+#### 3. Open http://localhost:3000 using Postman
 
-## HTTP Methods that can be made
-
-### 1. POST
-
-### 2. GET
-
-### 3. PATCH
-
-### 4. DELETE
-
-_The program starts with a dummy data of 2 entries locally and no DB is configured_
+> _The program starts with a dummy data of 2 entries locally and no DB is configured_
